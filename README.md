@@ -26,7 +26,6 @@ A simple GUI calculator developed using Java AWT and event handling.
 
 **Concepts used:**
 - AWT Components
-- `ActionListener`
 - Event Handling
 - Basic arithmetic operations
 
